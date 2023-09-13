@@ -1,6 +1,6 @@
 # Machine-Learning-Techniques
 
-# Evaluating a Learning Algorithm (Polynomial Regression):
+**Evaluating a Learning Algorithm (Polynomial Regression):**
 
 In this assignment I created a machine learning model and I find it fits my training data very well. The goal of creating the model was to be able to predict values for new examples.
 
