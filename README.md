@@ -1,4 +1,4 @@
-# abdulwasay1100-Machine-Learning-Techniques
+# Machine-Learning-Techniques
 
 # Evaluating a Learning Algorithm (Polynomial Regression):
 
